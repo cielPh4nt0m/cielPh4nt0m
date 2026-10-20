@@ -63,14 +63,6 @@ Here are some projects I'm working on as part of my learning journey:
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cielPh4nt0m&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cielPh4nt0m&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to learning, collaborating on projects, and connecting with fellow developers.
@@ -80,4 +72,12 @@ I'm always open to learning, collaborating on projects, and connecting with fell
 
 ---
 
-⭐ *"Learning every day, building step by step, and growing through code."*
+<br>
+<p align="center">
+  <a href="https://github.com/bntbgs999/">
+    <img src="https://contrib.rocks/image?repo=bntbgs999/bntbgs999" alt="Contributors"/>
+  </a>
+  <br/>
+  <h6 align="center">bntbgs999</h6>
+  <h5 align="center">𝓂𝓎 𝓁𝑜𝓋𝑒𝓁𝓎 𝒸𝑜𝒹𝒾𝓃𝑔 𝓅𝒶𝓇𝓉𝓃𝑒𝓇.</h5>
+</p>
