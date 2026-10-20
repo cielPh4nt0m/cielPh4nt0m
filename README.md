@@ -15,9 +15,18 @@ Welcome to my GitHub profile! I'm an Informatics student passionate about softwa
 
 ## 🛠️ Tech Stack
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,postgres,mysql,git,github,figma,vscode,html,css,js" />
+  </a>
+</p>
+
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,7 +46,7 @@ Welcome to my GitHub profile! I'm an Informatics student passionate about softwa
 - Backend Development with PHP
 - SQL and Relational Database Design
 - Web Security and Authentication
-- UI/UX Design and Prototyping with Figma
+- UI/UX Design and Prototyping dengan Figma
 
 ---
 
@@ -56,9 +65,9 @@ Here are some projects I'm working on as part of my learning journey:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cielPh4nt0m&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cielPh4nt0m&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -66,7 +75,8 @@ Here are some projects I'm working on as part of my learning journey:
 
 I'm always open to learning, collaborating on projects, and connecting with fellow developers.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cielPh4nt0m)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
 
 ---
 
