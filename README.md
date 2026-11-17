@@ -72,12 +72,3 @@ I'm always open to learning, collaborating on projects, and connecting with fell
 
 ---
 
-<br>
-<p align="center">
-  <a href="https://github.com/bntbgs999/">
-    <img src="https://contrib.rocks/image?repo=bntbgs999/bntbgs999" alt="Contributors"/>
-  </a>
-  <br/>
-  <h6 align="center">bntbgs999</h6>
-  <h5 align="center">𝓂𝓎 𝓁𝑜𝓋𝑒𝓁𝓎 𝒸𝑜𝒹𝒾𝓃𝑔 𝓅𝒶𝓇𝓉𝓃𝑒𝓇.</h5>
-</p>
